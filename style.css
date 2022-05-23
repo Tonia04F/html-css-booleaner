@@ -12,7 +12,7 @@
 
 /*sezione logo*/
 header{
-    background-color: rgb(15, 144, 213);
+    background-color: rgb(37, 135, 240);
     font-size: 30px;
 }
 #logo{
@@ -22,4 +22,12 @@ span{
     color: rgb(60, 197, 213);
 }
 
+/*tabella*/
+#thead{
+   color: aliceblue;
+    background-color: rgb(37, 135, 240);
+}
+.colore-riga{
+    background-color: rgb(106, 173, 182);
+}
 
