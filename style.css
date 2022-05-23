@@ -1,3 +1,9 @@
+/*commons*/
+.piccolo{
+    font-size: x-small;
+}
+/*commons*/
+
 /*sezione logo*/
 header{
     background-color: rgb(15, 144, 213);
@@ -6,12 +12,14 @@ header{
 #logo{
     height: 40px;
 }
+span{
+    color: rgb(60, 197, 213);
+}
 /*fine sezione logo*/
 
-span{
-    color: rgb(17, 122, 203);
+/*evidenzio parte di testo*/
+.giallo{
+    color: black;
+    background-color: rgb(222, 219, 62);
 }
-.piccolo{
-    font-size: small;
-}
-
+/*fine*/
