@@ -1,6 +1,6 @@
 /*commons*/
 .piccolo{
-    font-size: small;
+    font-size: x-small;
 }
 
 header{
@@ -14,4 +14,8 @@ header{
 
 span{
     color: aqua;
+}
+.sottolineo-giallo{
+    color: black;
+    background-color: rgb(241, 239, 111);
 }
