@@ -8,6 +8,10 @@
     background-color: rgb(222, 219, 62);
 }
 
+.colore-riga{
+    background-color: rgb(106, 173, 182);
+}
+
 /*commons*/
 
 /*sezione logo*/
@@ -27,7 +31,3 @@ span{
    color: aliceblue;
     background-color: rgb(37, 135, 240);
 }
-.colore-riga{
-    background-color: rgb(106, 173, 182);
-}
-
