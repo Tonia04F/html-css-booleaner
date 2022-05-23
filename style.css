@@ -1,0 +1,17 @@
+/*sezione logo*/
+header{
+    background-color: rgb(15, 144, 213);
+    font-size: 30px;
+}
+#logo{
+    height: 40px;
+}
+/*fine sezione logo*/
+
+span{
+    color: rgb(17, 122, 203);
+}
+.piccolo{
+    font-size: small;
+}
+
