@@ -2,12 +2,19 @@
 .piccolo{
     font-size: x-small;
 }
+.bianco{
+    color: aliceblue;
+}
 
 header{
     background-color: rgb(37, 135, 240);
     font-size: 30px;
-    background-image: url(img/pattern.png) ;
+    background-image: url(bonus/pattern.png);
+    background-size: contain;
+    
 }
+
+
 #logo{
     height: 40px;
 }
@@ -29,3 +36,20 @@ span{
 .grigio{
     color: rgb(150, 150, 150);
 }
+ /*footer*/
+ #monitor{
+     background-image: url(BONUS/monitor.jpg);
+ }
+ #graph{
+     background-image: url(BONUS/graph.jpg);
+ 
+ }
+
+ .footer-img{
+     color: aliceblue;
+     text-align: center;
+    background-size: contain;
+    width: 200px;
+    height: 150px;
+    background-repeat: no-repeat;
+ }
